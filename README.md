@@ -44,3 +44,5 @@ python demo.py
 onnx的接口与torch接口方式一致，接口实现做了调整，onnx的文件夹里knet-dy-sim.onnx是动态的，另一个onnx是静态的，建议使用静态的onnx
 
 ```
+ 模型权重链接：链接：https://pan.baidu.com/s/1QwBlnN4B4ADq0g5qv10NBg?pwd=sqvn 
+提取码：sqvn
